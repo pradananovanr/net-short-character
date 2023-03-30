@@ -1,0 +1,15 @@
+E:\Titip Dana\Nawadata Solutions\Program I\net-short-character\bin\Debug\net7.0\Program I.exe
+E:\Titip Dana\Nawadata Solutions\Program I\net-short-character\bin\Debug\net7.0\Program I.deps.json
+E:\Titip Dana\Nawadata Solutions\Program I\net-short-character\bin\Debug\net7.0\Program I.runtimeconfig.json
+E:\Titip Dana\Nawadata Solutions\Program I\net-short-character\bin\Debug\net7.0\Program I.dll
+E:\Titip Dana\Nawadata Solutions\Program I\net-short-character\bin\Debug\net7.0\Program I.pdb
+E:\Titip Dana\Nawadata Solutions\Program I\net-short-character\obj\Debug\net7.0\Program I.csproj.AssemblyReference.cache
+E:\Titip Dana\Nawadata Solutions\Program I\net-short-character\obj\Debug\net7.0\Program I.GeneratedMSBuildEditorConfig.editorconfig
+E:\Titip Dana\Nawadata Solutions\Program I\net-short-character\obj\Debug\net7.0\Program I.AssemblyInfoInputs.cache
+E:\Titip Dana\Nawadata Solutions\Program I\net-short-character\obj\Debug\net7.0\Program I.AssemblyInfo.cs
+E:\Titip Dana\Nawadata Solutions\Program I\net-short-character\obj\Debug\net7.0\Program I.csproj.CoreCompileInputs.cache
+E:\Titip Dana\Nawadata Solutions\Program I\net-short-character\obj\Debug\net7.0\Program I.dll
+E:\Titip Dana\Nawadata Solutions\Program I\net-short-character\obj\Debug\net7.0\refint\Program I.dll
+E:\Titip Dana\Nawadata Solutions\Program I\net-short-character\obj\Debug\net7.0\Program I.pdb
+E:\Titip Dana\Nawadata Solutions\Program I\net-short-character\obj\Debug\net7.0\Program I.genruntimeconfig.cache
+E:\Titip Dana\Nawadata Solutions\Program I\net-short-character\obj\Debug\net7.0\ref\Program I.dll
